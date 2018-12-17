@@ -1,3 +1,4 @@
-# Sudoku solver with numpy ufunc
+# Sudoku solver
 
-- なんとなくufuncで高速なsudoku solverを作ってみた
+- [qubo_sudoku.ipynb](./qubo_sudoku.ipynb)
+  - Sudoku solver with QUBO
